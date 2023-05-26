@@ -1,4 +1,4 @@
-export class CalendarController {
+ class CalendarController {
   constructor({calendarView}) {
 
     this.currentDate = new Date()
