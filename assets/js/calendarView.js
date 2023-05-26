@@ -1,4 +1,4 @@
-class CalendarView{
+export class CalendarView{
   constructor(){
 
     this.elements = {}
